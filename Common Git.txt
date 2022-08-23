@@ -15,7 +15,7 @@ git push # sube los nuevos archivos a github
 
 git log --oneline # Para ver los commit 
 
-git status -s # para ver los cambios 
+git status -s # Para ver los cambios 
 --------------------------------------
 These are common Git commands used in various situations:
 

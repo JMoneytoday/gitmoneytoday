@@ -1,23 +1,27 @@
------------Camandos de GitMoneytoday.es------------------ 
-git clone # Para copiar la repositorio
+--------------------------------------------------------------------------------
+-----------Camandos de Git Moneytoday.es---------------------------------------- 
+--------------------------------------------------------------------------------
+git clone              # Para copiar la repositorio
 
-git status -s # Estado del repo
+git status -s          # Estado del repositorio 
 
-git add # Para agregar el nuevo archivo a git
+git add                # Para agregar el nuevo archivo a git
 
-git diff # para ver la diferencia entres los archivos 
+git diff               # para ver las diferencias entre los archivos 
 
-git add. # Para alñadir todos los cambios
+git add.               # Para añadir todos los cambios
 
-git commit -m "Comentarios Aquí"
+git commit -m "texto"  # Para agregar un comentario 
 
-git push # sube los nuevos archivos a github
+git push               # Sube los nuevos archivos a github
 
-git log --oneline # Para ver los commit 
+git log --oneline      # Para ver  todos los commit 
 
-git status -s # Para ver los cambios 
---------------------------------------
-These are common Git commands used in various situations:
+git status -s          # Para ver los cambios 
+-------------------------------------------------------------------------------------
+----------These are common Git commands used in various situations:------------------
+-------------------------------------------------------------------------------------
+
 
 start a working area (see also: git help tutorial)
    clone             Clone a repository into a new directory
@@ -56,3 +60,4 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+-----------------------------------------------------------------------------------------------------

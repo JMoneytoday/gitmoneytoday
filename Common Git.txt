@@ -9,7 +9,7 @@ git add                # Para agregar el nuevo archivo a git
 
 git diff               # Para ver las diferencias entre los archivos 
 
-git add.               # Para añadir todos los cambios
+git add .               # Para añadir todos los cambios
 
 git commit -m "texto"  # Para agregar un comentario 
 

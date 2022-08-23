@@ -1,4 +1,4 @@
------------Camandos------------------ 
+-----------Camandos de GitMoneytoday.es------------------ 
 git clone # Para copiar la repositorio
 
 git status -s # Estado del repo

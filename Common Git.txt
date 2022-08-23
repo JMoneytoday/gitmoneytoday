@@ -7,7 +7,7 @@ git status -s          # Estado del repositorio
 
 git add                # Para agregar el nuevo archivo a git
 
-git diff               # para ver las diferencias entre los archivos 
+git diff               # Para ver las diferencias entre los archivos 
 
 git add.               # Para añadir todos los cambios
 

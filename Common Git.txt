@@ -1,3 +1,22 @@
+-----------Camandos------------------ 
+git clone # Para copiar la repositorio
+
+git status -s # Estado del repo
+
+git add # Para agregar el nuevo archivo a git
+
+git diff # para ver la diferencia entres los archivos 
+
+git add. # Para alñadir todos los cambios
+
+git commit -m "Comentarios Aquí"
+
+git push # sube los nuevos archivos a github
+
+git log --oneline # Para ver los commit 
+
+git status -s # para ver los cambios 
+--------------------------------------
 These are common Git commands used in various situations:
 
 start a working area (see also: git help tutorial)
